@@ -32,6 +32,8 @@ namespace CA201013_2
             Console.WriteLine($"eredeti: {d2.nev}");
             Console.WriteLine($"másolat: {referenciaD1.nev}");
             Console.WriteLine($"másolat: {masolatD2.nev}");
+
+            //továbbá az, hogy struktúra alapértelmezett konstruktortát NEM tudod elfedni/elrejteni
             Console.ReadKey();
         }
     }
