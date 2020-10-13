@@ -33,6 +33,11 @@ namespace CA201013_2
             Console.WriteLine($"másolat: {referenciaD1.nev}");
             Console.WriteLine($"másolat: {masolatD2.nev}");
 
+            //müxik:
+            //DiakC cls = null;
+            //NEM müxik
+            //DiakS str = null;
+
             //továbbá az, hogy struktúra alapértelmezett konstruktortát NEM tudod elfedni/elrejteni
             Console.ReadKey();
         }
